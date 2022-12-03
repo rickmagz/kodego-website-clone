@@ -6,12 +6,13 @@ body {
 .nav {
   overflow: hidden;
   background-color: white;
-  /* border: 1px solid rgb(0, 0, 0); */
+  border: 1px solid rgb(0, 0, 0);
   display: block;
 }
 
 .kodego-logo {
   display: block;
+  float: left;
   margin: 0 50px 0 50px;
 }
 
@@ -41,4 +42,25 @@ body {
   background-color: lightgreen;
   color: white;
   border-radius: 10px;
+}
+
+.banner-section{
+  width: 100%;
+}
+
+#banner{
+  background-size: cover;
+  width: 100%;
+  padding: 0 15px 15px 0;
+  margin: auto;
+}
+
+.content-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.left-content{
+  
 }
