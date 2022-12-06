@@ -41,9 +41,7 @@ body {
 } */
 
 .active {
-  background-color: lightgreen;
-  color: white;
-  border-radius: 10px;
+  color: green;
 }
 
 .banner-section {
