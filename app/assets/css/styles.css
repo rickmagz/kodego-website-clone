@@ -1,4 +1,5 @@
 @import "normalize.css";
+@import "./modules/_container";
 
 body {
   margin: 0;
@@ -40,10 +41,14 @@ body {
   border-radius: 5px;
 } */
 
+#sign-in{
+  color: green; 
+  font-weight: bold;
+}
 .active {
   background-color: lightgreen;
-  color: white;
   border-radius: 10px;
+  font-weight: bold;
 }
 
 .banner-section {
