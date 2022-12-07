@@ -1,6 +1,7 @@
 @import "normalize.css";
 @import "./base/_global";
 @import "./modules/_container";
+@import "./modules/_header";
 
 .banner-section {
   width: 100%;
