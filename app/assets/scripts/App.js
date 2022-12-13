@@ -1,5 +1,5 @@
-import "../css/styles.css";
+import '../styles/styles.css'
 
 if (module.hot) {
-    module.hot.accept()
-  }
+  module.hot.accept()
+}
